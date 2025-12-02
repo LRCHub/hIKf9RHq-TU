@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "fragile",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2025-12-02T17:38:37.150369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Fragile",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/01_The_Fragile_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Fragile",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/02_The_Fragile_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Section 24 [The Fragile Army]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/03_Section_24_[The_Fragile_Army]_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/04_Fragile_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fragile Ground",
+      "artist": "Place Vendome",
+      "has_synced": true,
+      "path": "select/05_Fragile_Ground_Place_Vendome.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Blankenberge",
+      "has_synced": false,
+      "path": "select/06_Fragile_Blankenberge.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/07_Fragile_Cranes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fragile (Remix)",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/08_Fragile_(Remix)_Cranes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Kygo feat. Labrinth",
+      "has_synced": true,
+      "path": "select/09_Fragile_Kygo_feat._Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/10_Fragile_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fragile Wind",
+      "artist": "Nitin Sawhney",
+      "has_synced": false,
+      "path": "select/11_Fragile_Wind_Nitin_Sawhney.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Mother We Share (Kowton's Feeling Fragile Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": false,
+      "path": "select/12_The_Mother_We_Share_(Kowton's_Feeling_Fragile_Remix)_CHVRCHES.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fragile Tension",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/13_Fragile_Tension_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/14_Fragile_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fragile",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/15_Fragile_Mr._Big.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fragile",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_01_fragile_Every_Little_Thing.txt"
+    }
+  ]
+}
